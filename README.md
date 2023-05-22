@@ -5,6 +5,7 @@ The machine-learning based surrogate model for the ionospheric outputs from REPP
   * bigsig756n.dat: REPPU simulation results of height-integrated conductivity. 
   * bigfac756n.dat: REPPU simulation results of field-aligned current. 
   * bigpot756n.dat: REPPU simulation results of ionospheric potential. 
+  * sw756.txt: Solar wind input data. 
   * rep_emu.ipyb: Jupyter notebook demo, for reproducing Figure 3 in the reference paper.
   * synth_clock180.txt: Synthetic solar wind input data. 
 
