@@ -18,5 +18,6 @@ The machine-learning based surrogate model for the ionospheric outputs from REPP
   
   ## Citation
   Kataoka, R., S. Nakano, and S. Fujita (2023), Machine learning emulator for physics-based prediction of ionospheric response to solar wind variations, submitted to Geophysical Research Letters (submitted in January, 2003)
-  Preprint: Ryuho Kataoka, Shinya Nakano, Shigeru Fujita. Machine learning emulator for physics-based prediction of ionospheric response to solar wind variations. ESS Open Archive . January 17, 2023.
+  
+  * Preprint: Ryuho Kataoka, Shinya Nakano, Shigeru Fujita. Machine learning emulator for physics-based prediction of ionospheric response to solar wind variations. ESS Open Archive . January 17, 2023.
   DOI: 10.22541/essoar.167397423.39654060/v1
